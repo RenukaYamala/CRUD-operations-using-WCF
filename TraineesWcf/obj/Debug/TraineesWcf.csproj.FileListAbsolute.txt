@@ -1,0 +1,7 @@
+C:\Users\Renuka.Yamala\source\repos\TraineesWcf\TraineesWcf\bin\TraineesWcf.dll.config
+C:\Users\Renuka.Yamala\source\repos\TraineesWcf\TraineesWcf\bin\TraineesWcf.dll
+C:\Users\Renuka.Yamala\source\repos\TraineesWcf\TraineesWcf\bin\TraineesWcf.pdb
+C:\Users\Renuka.Yamala\source\repos\TraineesWcf\TraineesWcf\obj\Debug\TraineesWcf.csprojAssemblyReference.cache
+C:\Users\Renuka.Yamala\source\repos\TraineesWcf\TraineesWcf\obj\Debug\TraineesWcf.csproj.CoreCompileInputs.cache
+C:\Users\Renuka.Yamala\source\repos\TraineesWcf\TraineesWcf\obj\Debug\TraineesWcf.dll
+C:\Users\Renuka.Yamala\source\repos\TraineesWcf\TraineesWcf\obj\Debug\TraineesWcf.pdb
